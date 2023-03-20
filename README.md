@@ -93,5 +93,3 @@ gcloud run deploy --image gcr.io/PROJECT-ID/fruit-freshness-detector-web
 python -m unittest discover tests
 ``` 
 
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
